@@ -15,7 +15,7 @@ class Modbussy < Formula
           "Accept: application/octet-stream",
           "Authorization: bearer #{ENV["HOMEBREW_GITHUB_API_TOKEN"]}"
         ]
-      sha256 "fbaceefd104af2bb9343cd636c01bbb6b3e915932e2288c9c9da00e192fa3e68"
+      sha256 "3d635e7d9b6bb57e45ccf7f6b8e052899ce9fd904ad4a3f95db0f90d67abe817"
 
       def install
         bin.install "modbussy"
@@ -27,7 +27,7 @@ class Modbussy < Formula
           "Accept: application/octet-stream",
           "Authorization: bearer #{ENV["HOMEBREW_GITHUB_API_TOKEN"]}"
         ]
-      sha256 "8e9adc8747b5c6177d102948e56ced2908d9948d98c27087614e4516fc86f0b4"
+      sha256 "679278420a4741f83e1abe501d9c923ab70f10f5207dd3311d16beead3c11452"
 
       def install
         bin.install "modbussy"
@@ -43,7 +43,7 @@ class Modbussy < Formula
             "Accept: application/octet-stream",
             "Authorization: bearer #{ENV["HOMEBREW_GITHUB_API_TOKEN"]}"
           ]
-        sha256 "e6eb5dc353e402acc1ae9c9429062a0c2cff375155d6f2c5472322edd568271f"
+        sha256 "c429c50b8369bbbbb49dfc240bc8963807fe354a8d8c66ad094f689d08f9e722"
 
         def install
           bin.install "modbussy"
@@ -57,7 +57,7 @@ class Modbussy < Formula
             "Accept: application/octet-stream",
             "Authorization: bearer #{ENV["HOMEBREW_GITHUB_API_TOKEN"]}"
           ]
-        sha256 "d3d6896ed48208f8daa42e08bbae0424e8021e486ea50c89367262be86bb9d89"
+        sha256 "17cf49f91e0f34f043378b67fbb1a77a0c478db86cfa52f3a90bd2c61595c52b"
 
         def install
           bin.install "modbussy"
